@@ -1,0 +1,14 @@
+{
+  "name": "ReconShield",
+  "short_name": "ReconShield",
+  "description": "Passive Security Reconnaissance Tool",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070a",
+  "theme_color": "#00d9ff",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
